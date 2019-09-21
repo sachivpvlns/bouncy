@@ -11,6 +11,8 @@ A lightweight foundation for your next webpack based frontend project.
 npm install
 ```
 
+Add the firebase credentials in `/src/scripts/firebase/firebaseConfig.js`
+
 ### Start Dev Server
 
 ```
